@@ -14,3 +14,6 @@ Nesse projeto foi criado um jogo da memória utilizando apenas HTML, CSS e Javas
 
 ## Minhas alterações:
 A proposta inicial do projeto era com a temática de Super Mario, mas para fazer meus testes resolvi modificar algumas coisas e ainda estou aprendendo.
+
+## teste:
+https://github.com/kelvya/jogo-da-memoria/blob/main/img/1.pngi/mg%20para%20readme/Tablet.png
